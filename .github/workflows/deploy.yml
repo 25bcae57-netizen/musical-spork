@@ -1,8 +1,4 @@
-.github
-   workflows
-        deploy.yml
-
-      name: Deploy Portfolio
+name: Deploy Portfolio
 
 on:
   push:
